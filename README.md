@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sindyko
 - 👀 I’m interested in PHP, HTML, JS, Python.
-- 🌱 I’m currently learning PHP, JS.
+- 🌱 I’m currently learning PHP, JS, Laravel.
 - 📫 How to reach me "naykatexnica@gmail.com"
 
 <!---
