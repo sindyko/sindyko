@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sindyko
-- 👀 I’m interested in PHP, Laravel, LiveWire, React, JavaScript.
-- 🌱 I’m currently working on the Laravel + LiveWire frameworks.
-- 📫 How to reach me "naykatexnica@gmail.com"
+Laravel, Livewire, Vue, Nuxt.
+- Alexander K. <naykatexnica@gmail.com>
 
 <!---
 sindyko/sindyko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
