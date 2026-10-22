@@ -1,5 +1,6 @@
 Laravel, Livewire, Vue, Nuxt.
-- Alexander K. <naykatexnica@gmail.com>
+
+Alexander K. <naykatexnica@gmail.com>
 
 <!---
 sindyko/sindyko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
